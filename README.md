@@ -2,7 +2,6 @@
 
 # My Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=josharagon&show_icons=true&theme=radical)
 [![my languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josharagon&langs_count=5&theme=vue&layout=compact)](https://github.com/josharagon/github-readme-stats)
 
 
