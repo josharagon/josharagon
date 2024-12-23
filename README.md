@@ -9,7 +9,6 @@
 [![](https://img.shields.io/badge/-JavaScript-gray?logo=javascript&logoColor=yellow&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
 [![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
 ![](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
